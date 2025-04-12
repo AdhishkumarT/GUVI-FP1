@@ -1,0 +1,14 @@
+This project focuses on segmenting frequent flyer airline customers using unsupervised machine learning techniques. By performing data preprocessing, outlier detection, and dimensionality reduction (PCA), the data is effectively grouped using KMeans clustering. The insights from this project can help airlines design better loyalty programs and targeted marketing strategies.
+
+## Key Features:
+- Cleaned and preprocessed real-world customer flight data.
+- Applied PCA for dimensionality reduction.
+- Used Elbow Method and Silhouette Score to choose optimal clusters.
+- Built clustering models using KMeans.
+- Visualized clusters with intuitive plots.
+
+## Tools Used:
+- Python, Pandas, NumPy
+- Scikit-learn
+- Seaborn, Matplotlib
+- KMeans Clustering, PCA

@@ -1,0 +1,15 @@
+Title: Credit Card Fraud Detection Using Machine Learning and Deep Learning
+
+Description: This project focuses on detecting fraudulent credit card transactions using various machine learning and deep learning models. The dataset undergoes preprocessing, feature engineering, and model training with techniques like Random Forest, Logistic Regression, XGBoost, and LSTMs. Performance is evaluated using metrics such as accuracy, precision, recall, and ROC-AUC.
+
+Key Features:
+
+Data Cleaning and Preprocessing
+
+Handling Imbalanced Data with SMOTE
+
+Feature Engineering and Scaling
+
+Model Training and Hyperparameter Tuning
+
+Performance Evaluation and Comparison

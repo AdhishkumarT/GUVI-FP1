@@ -1,0 +1,36 @@
+This project is a smart AI-driven web application designed to *generate optimized resumes, **evaluate ATS (Applicant Tracking System) scores, and **recommend suitable job roles*. It is built using Machine Learning and NLP techniques to enhance a job seeker's resume and suggest roles based on their skills and profile.
+
+## 🚀 Features
+
+- ✅ *Resume Parsing & Analysis*  
+  Automatically extracts relevant sections from your resume and analyzes them.
+
+- 🧾 *ATS Score Evaluation*  
+  Checks your resume’s compatibility with ATS systems used by recruiters.
+
+- 📑 *Resume Optimization Suggestions*  
+  Recommends content improvements, keywords, and formatting tips to increase your hiring chances.
+
+- 💼 *Job Role Recommendations*  
+  Suggests job roles that align with your resume using AI/ML models.
+
+- 📄 *Resume Generator*  
+  Creates a professional resume using pre-designed templates based on user input.
+
+---
+
+## 🛠️ Tech Stack
+
+- *Frontend:* Streamlit
+- *Backend:* Python, NLP
+- *ML Models:*  
+  - TF-IDF & Cosine Similarity for job matching  
+  - TextBlob or spaCy for skill extraction and score evaluation  
+  - Pretrained models from Hugging Face for enhanced NLP tasks
+## 📊 How it Works
+
+1. Upload or generate a resume.
+2. The app parses the content using NLP.
+3. It evaluates your resume’s strength for ATS systems.
+4. It uses your skills and experience to recommend relevant job roles.
+5. Download the generated resume or apply changes to your existing one.
